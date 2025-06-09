@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "acorn": "^8.14.1",
+    "acorn": "^8.15.0",
     "body-parser": "^2.2.0",
     "cookie-parser": "^1.4.7",
     "debug": "^4.4.1",
