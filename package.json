@@ -10,7 +10,7 @@
     "acorn": "^8.14.1",
     "body-parser": "^2.2.0",
     "cookie-parser": "^1.4.7",
-    "debug": "^4.4.1",
+    "debug": "^4.4.3",
     "eslint": "^9.36.0",
     "express": "^5.1.0",
     "morgan": "^1.10.1",
